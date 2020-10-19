@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pay-with-dai/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pay-with-dai/static/js/main.b7d0f3d8.chunk.js",
+    "main.js.map": "/pay-with-dai/static/js/main.b7d0f3d8.chunk.js.map",
+    "runtime-main.js": "/pay-with-dai/static/js/runtime-main.d571b4fe.js",
+    "runtime-main.js.map": "/pay-with-dai/static/js/runtime-main.d571b4fe.js.map",
+    "static/js/2.2a99ea03.chunk.js": "/pay-with-dai/static/js/2.2a99ea03.chunk.js",
+    "static/js/2.2a99ea03.chunk.js.map": "/pay-with-dai/static/js/2.2a99ea03.chunk.js.map",
+    "index.html": "/pay-with-dai/index.html",
+    "precache-manifest.1293474421583a959d0abd99b75192b5.js": "/pay-with-dai/precache-manifest.1293474421583a959d0abd99b75192b5.js",
+    "service-worker.js": "/pay-with-dai/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pay-with-dai/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2a99ea03.chunk.js.LICENSE.txt": "/pay-with-dai/static/js/2.2a99ea03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d571b4fe.js",
+    "static/js/2.2a99ea03.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b7d0f3d8.chunk.js"
+  ]
+}
